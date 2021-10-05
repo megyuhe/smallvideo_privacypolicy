@@ -15,7 +15,7 @@ Small Video cares about the integrity and security of your personal information.
 Advertising policy：
 
 During your use of Small Video, we will display ads in the app in an appropriate amount. We ensure that ads (including third-party ads) are placed in the app to comply with the industry self-discipline guidance provided by the Digital Advertiser Alliance (DAA), including Facebook Audience Network native ads, etc.
-Links to third-party applications or websites
+Links to third-party applications or websites。
 
 This service may contain links to other websites. If you click on a third-party link, you will be directed to that site. Please note that these external sites are not operated by me. Therefore, I strongly recommend that you check the privacy policies of these sites. I have no control over the content, privacy policies or practices of any third-party website or service, and I am not responsible for it.
 Links to third-party applications or websites
